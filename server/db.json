@@ -1,0 +1,2304 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771",
+        "geo": {
+          "lat": "-43.9509",
+          "lng": "-34.4618"
+        }
+      },
+      "phone": "010-692-6593 x09125",
+      "website": "anastasia.net",
+      "company": {
+        "name": "Deckow-Crist",
+        "catchPhrase": "Proactive didactic contingency",
+        "bs": "synergize scalable supply-chains"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info",
+      "company": {
+        "name": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257",
+        "geo": {
+          "lat": "29.4572",
+          "lng": "-164.2990"
+        }
+      },
+      "phone": "493-170-9623 x156",
+      "website": "kale.biz",
+      "company": {
+        "name": "Robel-Corkery",
+        "catchPhrase": "Multi-tiered zero tolerance productivity",
+        "bs": "transition cutting-edge web services"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263",
+        "geo": {
+          "lat": "-31.8129",
+          "lng": "62.5342"
+        }
+      },
+      "phone": "(254)954-1289",
+      "website": "demarco.info",
+      "company": {
+        "name": "Keebler LLC",
+        "catchPhrase": "User-centric fault-tolerant solution",
+        "bs": "revolutionize end-to-end systems"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "address": {
+        "street": "Norberto Crossing",
+        "suite": "Apt. 950",
+        "city": "South Christy",
+        "zipcode": "23505-1337",
+        "geo": {
+          "lat": "-71.4197",
+          "lng": "71.7478"
+        }
+      },
+      "phone": "1-477-935-8478 x6430",
+      "website": "ola.org",
+      "company": {
+        "name": "Considine-Lockman",
+        "catchPhrase": "Synchronised bottom-line interface",
+        "bs": "e-enable innovative applications"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "address": {
+        "street": "Rex Trail",
+        "suite": "Suite 280",
+        "city": "Howemouth",
+        "zipcode": "58804-1099",
+        "geo": {
+          "lat": "24.8918",
+          "lng": "21.8984"
+        }
+      },
+      "phone": "210.067.6132",
+      "website": "elvis.io",
+      "company": {
+        "name": "Johns Group",
+        "catchPhrase": "Configurable multimedia task-force",
+        "bs": "generate enterprise e-tailers"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Suite 729",
+        "city": "Aliyaview",
+        "zipcode": "45169",
+        "geo": {
+          "lat": "-14.3990",
+          "lng": "-120.7677"
+        }
+      },
+      "phone": "586.493.6943 x140",
+      "website": "jacynthe.com",
+      "company": {
+        "name": "Abernathy Group",
+        "catchPhrase": "Implemented secondary concept",
+        "bs": "e-enable extensible e-tailers"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "address": {
+        "street": "Dayna Park",
+        "suite": "Suite 449",
+        "city": "Bartholomebury",
+        "zipcode": "76495-3109",
+        "geo": {
+          "lat": "24.6463",
+          "lng": "-168.8889"
+        }
+      },
+      "phone": "(775)976-6794 x41206",
+      "website": "conrad.com",
+      "company": {
+        "name": "Yost and Sons",
+        "catchPhrase": "Switchable contextually-based project",
+        "bs": "aggregate real-time technologies"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "address": {
+        "street": "Kattie Turnpike",
+        "suite": "Suite 198",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261",
+        "geo": {
+          "lat": "-38.2386",
+          "lng": "57.2232"
+        }
+      },
+      "phone": "024-648-3804",
+      "website": "ambrose.net",
+      "company": {
+        "name": "Hoeger LLC",
+        "catchPhrase": "Centralized empowering task-force",
+        "bs": "target end-to-end models"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Marcus Holloway",
+      "username": "MarcTech",
+      "email": "Marcus.Holloway@techwave.com",
+      "address": {
+        "street": "Pine Hollow",
+        "suite": "Apt. 321",
+        "city": "Brightonvale",
+        "zipcode": "84712-5901",
+        "geo": {
+          "lat": "45.6721",
+          "lng": "-93.4512"
+        }
+      },
+      "phone": "1-312-555-7890 x123",
+      "website": "marcusholloway.dev",
+      "company": {
+        "name": "Holloway Solutions",
+        "catchPhrase": "Innovative cloud-based architecture",
+        "bs": "leverage next-gen platforms"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Elena Vasquez",
+      "username": "ElenaV",
+      "email": "Elena.Vasquez@brightmail.org",
+      "address": {
+        "street": "Cedar Lane",
+        "suite": "Suite 105",
+        "city": "Silverwood",
+        "zipcode": "67321-8907",
+        "geo": {
+          "lat": "-12.3456",
+          "lng": "134.7890"
+        }
+      },
+      "phone": "415-987-6543",
+      "website": "elenav.net",
+      "company": {
+        "name": "Vasquez & Co",
+        "catchPhrase": "Streamlined operational synergy",
+        "bs": "optimize dynamic workflows"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Jamal Carter",
+      "username": "JCart",
+      "email": "Jamal.Carter@vortexmail.com",
+      "address": {
+        "street": "Maple Drive",
+        "suite": "Suite 472",
+        "city": "Northridge",
+        "zipcode": "29834-1123",
+        "geo": {
+          "lat": "33.8912",
+          "lng": "-78.2345"
+        }
+      },
+      "phone": "1-803-456-9876 x901",
+      "website": "jamalcarter.io",
+      "company": {
+        "name": "Carter Dynamics",
+        "catchPhrase": "Scalable enterprise solutions",
+        "bs": "deploy robust infrastructures"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Sophie Nguyen",
+      "username": "SophN",
+      "email": "Sophie.Nguyen@skycloud.biz",
+      "address": {
+        "street": "Willow Avenue",
+        "suite": "Apt. 789",
+        "city": "Eastport",
+        "zipcode": "40123-5678",
+        "geo": {
+          "lat": "-55.6789",
+          "lng": "22.3456"
+        }
+      },
+      "phone": "617-234-8901",
+      "website": "sophienguyen.com",
+      "company": {
+        "name": "Nguyen Innovations",
+        "catchPhrase": "Future-proof modular systems",
+        "bs": "enhance cross-platform capabilities"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Liam O’Connor",
+      "username": "LiamOC",
+      "email": "Liam.OConnor@horizon.net",
+      "address": {
+        "street": "Oak Street",
+        "suite": "Suite 654",
+        "city": "Westfield",
+        "zipcode": "75019-2345",
+        "geo": {
+          "lat": "19.4321",
+          "lng": "-145.6789"
+        }
+      },
+      "phone": "1-949-321-4567 x321",
+      "website": "liamoconnor.org",
+      "company": {
+        "name": "O’Connor Enterprises",
+        "catchPhrase": "Adaptive real-time strategies",
+        "bs": "integrate seamless ecosystems"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Aisha Patel",
+      "username": "AishaP",
+      "email": "Aisha.Patel@luminary.io",
+      "address": {
+        "street": "Birch Road",
+        "suite": "Apt. 234",
+        "city": "Sunnyvale",
+        "zipcode": "91234-6789",
+        "geo": {
+          "lat": "38.9012",
+          "lng": "-77.1234"
+        }
+      },
+      "phone": "510-555-1234",
+      "website": "aishapatel.me",
+      "company": {
+        "name": "Patel Ventures",
+        "catchPhrase": "Proactive scalable frameworks",
+        "bs": "drive cutting-edge solutions"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Derek Simmons",
+      "username": "DSimmons",
+      "email": "Derek.Simmons@peakpulse.com",
+      "address": {
+        "street": "Elmwood Circle",
+        "suite": "Suite 890",
+        "city": "Harristown",
+        "zipcode": "34567-8901",
+        "geo": {
+          "lat": "-23.4567",
+          "lng": "145.6789"
+        }
+      },
+      "phone": "1-720-987-4321 x456",
+      "website": "dereksimmons.net",
+      "company": {
+        "name": "Simmons Tech",
+        "catchPhrase": "Optimized distributed networks",
+        "bs": "enable transformative paradigms"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Olivia Brooks",
+      "username": "OliB",
+      "email": "Olivia.Brooks@streamline.org",
+      "address": {
+        "street": "Rosewood Lane",
+        "suite": "Apt. 567",
+        "city": "Clearwater",
+        "zipcode": "67890-1234",
+        "geo": {
+          "lat": "47.1234",
+          "lng": "-122.5678"
+        }
+      },
+      "phone": "206-555-6789",
+      "website": "oliviabrooks.dev",
+      "company": {
+        "name": "Brooks Systems",
+        "catchPhrase": "Integrated holistic platforms",
+        "bs": "redefine scalable methodologies"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Tyrone Evans",
+      "username": "TyEv",
+      "email": "Tyrone.Evans@nexthub.com",
+      "address": {
+        "street": "Sycamore Way",
+        "suite": "Suite 321",
+        "city": "Riverside",
+        "zipcode": "23456-7890",
+        "geo": {
+          "lat": "-34.5678",
+          "lng": "98.1234"
+        }
+      },
+      "phone": "1-404-321-9876 x789",
+      "website": "tyroneevans.io",
+      "company": {
+        "name": "Evans Analytics",
+        "catchPhrase": "Data-driven strategic insights",
+        "bs": "harness predictive analytics"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Naomi Kim",
+      "username": "NaoKim",
+      "email": "Naomi.Kim@brightfuture.biz",
+      "address": {
+        "street": "Laurel Street",
+        "suite": "Apt. 876",
+        "city": "Hillcrest",
+        "zipcode": "89012-3456",
+        "geo": {
+          "lat": "25.6789",
+          "lng": "-133.4567"
+        }
+      },
+      "phone": "858-555-4321",
+      "website": "naomikim.com",
+      "company": {
+        "name": "Kim Innovations",
+        "catchPhrase": "Visionary tech ecosystems",
+        "bs": "pioneer disruptive technologies"
+      }
+    },
+    {
+      "id": 21,
+      "name": "Gabriel Ortiz",
+      "username": "GabeO",
+      "email": "Gabriel.Ortiz@synergy.net",
+      "address": {
+        "street": "Cherry Blossom Rd",
+        "suite": "Suite 543",
+        "city": "Springvale",
+        "zipcode": "45678-9012",
+        "geo": {
+          "lat": "-45.7890",
+          "lng": "67.1234"
+        }
+      },
+      "phone": "1-305-678-1234 x234",
+      "website": "gabeortiz.org",
+      "company": {
+        "name": "Ortiz Group",
+        "catchPhrase": "Agile performance optimization",
+        "bs": "streamline enterprise solutions"
+      }
+    },
+    {
+      "id": 22,
+      "name": "Isabella Moreno",
+      "username": "IsaM",
+      "email": "Isabella.Moreno@cloudpeak.io",
+      "address": {
+        "street": "Magnolia Lane",
+        "suite": "Apt. 432",
+        "city": "Stonehaven",
+        "zipcode": "78901-2345",
+        "geo": {
+          "lat": "12.3456",
+          "lng": "-156.7890"
+        }
+      },
+      "phone": "213-555-9876",
+      "website": "isabellamoreno.me",
+      "company": {
+        "name": "Moreno Tech",
+        "catchPhrase": "Next-gen collaborative tools",
+        "bs": "empower seamless integration"
+      }
+    },
+    {
+      "id": 23,
+      "name": "Ethan Bradley",
+      "username": "EthBrad",
+      "email": "Ethan.Bradley@innovate.com",
+      "address": {
+        "street": "Aspen Court",
+        "suite": "Suite 678",
+        "city": "Lakeside",
+        "zipcode": "12345-6789",
+        "geo": {
+          "lat": "56.7890",
+          "lng": "-89.1234"
+        }
+      },
+      "phone": "1-512-234-5678 x567",
+      "website": "ethanbradley.dev",
+      "company": {
+        "name": "Bradley Solutions",
+        "catchPhrase": "Robust scalable architectures",
+        "bs": "deploy innovative frameworks"
+      }
+    },
+    {
+      "id": 24,
+      "name": "Maya Singh",
+      "username": "MayaS",
+      "email": "Maya.Singh@futurewave.org",
+      "address": {
+        "street": "Juniper Path",
+        "suite": "Apt. 987",
+        "city": "Greenwood",
+        "zipcode": "56789-0123",
+        "geo": {
+          "lat": "-67.8901",
+          "lng": "34.5678"
+        }
+      },
+      "phone": "408-555-3456",
+      "website": "mayasingh.net",
+      "company": {
+        "name": "Singh Enterprises",
+        "catchPhrase": "Dynamic process automation",
+        "bs": "enhance operational efficiency"
+      }
+    },
+    {
+      "id": 25,
+      "name": "Xavier Lopez",
+      "username": "XavL",
+      "email": "Xavier.Lopez@techspire.biz",
+      "address": {
+        "street": "Poplar Avenue",
+        "suite": "Suite 234",
+        "city": "Brookfield",
+        "zipcode": "90123-4567",
+        "geo": {
+          "lat": "23.4567",
+          "lng": "-123.7890"
+        }
+      },
+      "phone": "1-619-678-9012 x890",
+      "website": "xavierlopez.io",
+      "company": {
+        "name": "Lopez Dynamics",
+        "catchPhrase": "Integrated system synergies",
+        "bs": "revolutionize tech ecosystems"
+      }
+    },
+    {
+      "id": 26,
+      "name": "Zoe Harper",
+      "username": "ZoeH",
+      "email": "Zoe.Harper@brightpath.com",
+      "address": {
+        "street": "Hickory Lane",
+        "suite": "Apt. 543",
+        "city": "Crestview",
+        "zipcode": "34567-8901",
+        "geo": {
+          "lat": "-78.9012",
+          "lng": "45.6789"
+        }
+      },
+      "phone": "702-555-6789",
+      "website": "zoeharper.org",
+      "company": {
+        "name": "Harper Innovations",
+        "catchPhrase": "Adaptive cloud solutions",
+        "bs": "optimize scalable networks"
+      }
+    },
+    {
+      "id": 27,
+      "name": "Julian Foster",
+      "username": "JulesF",
+      "email": "Julian.Foster@nextgen.net",
+      "address": {
+        "street": "Spruce Drive",
+        "suite": "Suite 876",
+        "city": "Pinecrest",
+        "zipcode": "67890-1234",
+        "geo": {
+          "lat": "34.5678",
+          "lng": "-145.9012"
+        }
+      },
+      "phone": "1-303-234-5678 x123",
+      "website": "julianfoster.dev",
+      "company": {
+        "name": "Foster Tech",
+        "catchPhrase": "Streamlined tech platforms",
+        "bs": "drive enterprise innovation"
+      }
+    },
+    {
+      "id": 28,
+      "name": "Amara Khan",
+      "username": "AmaraK",
+      "email": "Amara.Khan@skyline.io",
+      "address": {
+        "street": "Walnut Street",
+        "suite": "Apt. 321",
+        "city": "Highland",
+        "zipcode": "23456-7890",
+        "geo": {
+          "lat": "-12.3456",
+          "lng": "78.9012"
+        }
+      },
+      "phone": "415-555-9012",
+      "website": "amarakhan.com",
+      "company": {
+        "name": "Khan Solutions",
+        "catchPhrase": "Proactive system integration",
+        "bs": "enable robust workflows"
+      }
+    },
+    {
+      "id": 29,
+      "name": "Caleb Mitchell",
+      "username": "CaleM",
+      "email": "Caleb.Mitchell@vortex.org",
+      "address": {
+        "street": "Chestnut Road",
+        "suite": "Suite 654",
+        "city": "Riverbend",
+        "zipcode": "89012-3456",
+        "geo": {
+          "lat": "45.6789",
+          "lng": "-167.1234"
+        }
+      },
+      "phone": "1-206-678-3456 x456",
+      "website": "calebmitchell.net",
+      "company": {
+        "name": "Mitchell Dynamics",
+        "catchPhrase": "Scalable tech ecosystems",
+        "bs": "deploy cutting-edge systems"
+      }
+    },
+    {
+      "id": 30,
+      "name": "Lila Bennett",
+      "username": "LilaB",
+      "email": "Lila.Bennett@horizon.biz",
+      "address": {
+        "street": "Redwood Lane",
+        "suite": "Apt. 987",
+        "city": "Summitville",
+        "zipcode": "12345-6789",
+        "geo": {
+          "lat": "-23.7890",
+          "lng": "56.9012"
+        }
+      },
+      "phone": "510-555-1234",
+      "website": "lilabennett.io",
+      "company": {
+        "name": "Bennett Innovations",
+        "catchPhrase": "Future-ready tech solutions",
+        "bs": "enhance system interoperability"
+      }
+    },
+    {
+      "id": 31,
+      "name": "Noah Sullivan",
+      "username": "NoahS",
+      "email": "Noah.Sullivan@brightwave.com",
+      "address": {
+        "street": "Ashwood Drive",
+        "suite": "Suite 432",
+        "city": "Fairview",
+        "zipcode": "56789-0123",
+        "geo": {
+          "lat": "67.1234",
+          "lng": "-89.4567"
+        }
+      },
+      "phone": "1-720-345-6789 x789",
+      "website": "noahsullivan.org",
+      "company": {
+        "name": "Sullivan Tech",
+        "catchPhrase": "Optimized digital platforms",
+        "bs": "streamline tech infrastructures"
+      }
+    },
+    {
+      "id": 32,
+      "name": "Aria Coleman",
+      "username": "AriaC",
+      "email": "Aria.Coleman@synergy.net",
+      "address": {
+        "street": "Cypress Lane",
+        "suite": "Apt. 654",
+        "city": "Meadowbrook",
+        "zipcode": "90123-4567",
+        "geo": {
+          "lat": "-34.9012",
+          "lng": "123.5678"
+        }
+      },
+      "phone": "213-555-3456",
+      "website": "ariacoleman.dev",
+      "company": {
+        "name": "Coleman Solutions",
+        "catchPhrase": "Innovative system frameworks",
+        "bs": "drive scalable architectures"
+      }
+    },
+    {
+      "id": 33,
+      "name": "Elias Rivera",
+      "username": "EliR",
+      "email": "Elias.Rivera@nextpulse.io",
+      "address": {
+        "street": "Fir Street",
+        "suite": "Suite 987",
+        "city": "Cliffside",
+        "zipcode": "34567-8901",
+        "geo": {
+          "lat": "12.5678",
+          "lng": "-145.9012"
+        }
+      },
+      "phone": "1-619-678-9012 x123",
+      "website": "eliasrivera.com",
+      "company": {
+        "name": "Rivera Dynamics",
+        "catchPhrase": "Adaptive tech ecosystems",
+        "bs": "optimize enterprise solutions"
+      }
+    },
+    {
+      "id": 34,
+      "name": "Hazel Gordon",
+      "username": "HazelG",
+      "email": "Hazel.Gordon@cloudspire.org",
+      "address": {
+        "street": "Linden Road",
+        "suite": "Apt. 321",
+        "city": "Bayview",
+        "zipcode": "67890-1234",
+        "geo": {
+          "lat": "-45.1234",
+          "lng": "67.8901"
+        }
+      },
+      "phone": "408-555-6789",
+      "website": "hazelgordon.net",
+      "company": {
+        "name": "Gordon Innovations",
+        "catchPhrase": "Streamlined tech workflows",
+        "bs": "enable dynamic platforms"
+      }
+    },
+    {
+      "id": 35,
+      "name": "Silas Perry",
+      "username": "SilasP",
+      "email": "Silas.Perry@futurehub.biz",
+      "address": {
+        "street": "Hemlock Lane",
+        "suite": "Suite 654",
+        "city": "Ridgewood",
+        "zipcode": "23456-7890",
+        "geo": {
+          "lat": "23.9012",
+          "lng": "-156.3456"
+        }
+      },
+      "phone": "1-303-234-5678 x456",
+      "website": "silasperry.io",
+      "company": {
+        "name": "Perry Tech",
+        "catchPhrase": "Scalable system integration",
+        "bs": "deploy robust ecosystems"
+      }
+    },
+    {
+      "id": 36,
+      "name": "Violet Hayes",
+      "username": "ViHayes",
+      "email": "Violet.Hayes@brightcore.com",
+      "address": {
+        "street": "Dogwood Avenue",
+        "suite": "Apt. 987",
+        "city": "Lakewood",
+        "zipcode": "89012-3456",
+        "geo": {
+          "lat": "-67.3456",
+          "lng": "45.7890"
+        }
+      },
+      "phone": "702-555-9012",
+      "website": "violethayes.org",
+      "company": {
+        "name": "Hayes Solutions",
+        "catchPhrase": "Future-proof tech platforms",
+        "bs": "enhance system scalability"
+      }
+    },
+    {
+      "id": 37,
+      "name": "Owen Phillips",
+      "username": "OwenP",
+      "email": "Owen.Phillips@synergycore.net",
+      "address": {
+        "street": "Balsam Lane",
+        "suite": "Suite 432",
+        "city": "Holloway",
+        "zipcode": "12345-6789",
+        "geo": {
+          "lat": "34.7890",
+          "lng": "-123.9012"
+        }
+      },
+      "phone": "1-510-678-3456 x789",
+      "website": "owenphillips.dev",
+      "company": {
+        "name": "Phillips Dynamics",
+        "catchPhrase": "Optimized digital frameworks",
+        "bs": "streamline tech solutions"
+      }
+    },
+    {
+      "id": 38,
+      "name": "Ruby Alvarez",
+      "username": "RubyA",
+      "email": "Ruby.Alvarez@nextwave.io",
+      "address": {
+        "street": "Tulip Street",
+        "suite": "Apt. 654",
+        "city": "Cedarville",
+        "zipcode": "56789-0123",
+        "geo": {
+          "lat": "-12.9012",
+          "lng": "78.3456"
+        }
+      },
+      "phone": "213-555-1234",
+      "website": "rubyalvarez.com",
+      "company": {
+        "name": "Alvarez Innovations",
+        "catchPhrase": "Innovative system architectures",
+        "bs": "drive scalable workflows"
+      }
+    },
+    {
+      "id": 39,
+      "name": "Miles Henderson",
+      "username": "MilesH",
+      "email": "Miles.Henderson@cloudcore.org",
+      "address": {
+        "street": "Holly Lane",
+        "suite": "Suite 987",
+        "city": "Pineview",
+        "zipcode": "90123-4567",
+        "geo": {
+          "lat": "45.3456",
+          "lng": "-145.7890"
+        }
+      },
+      "phone": "1-619-234-5678 x123",
+      "website": "mileshenderson.net",
+      "company": {
+        "name": "Henderson Tech",
+        "catchPhrase": "Adaptive tech solutions",
+        "bs": "optimize enterprise ecosystems"
+      }
+    },
+    {
+      "id": 40,
+      "name": "Luna Ramirez",
+      "username": "LunaR",
+      "email": "Luna.Ramirez@futurecore.biz",
+      "address": {
+        "street": "Ivy Road",
+        "suite": "Apt. 321",
+        "city": "Brookside",
+        "zipcode": "34567-8901",
+        "geo": {
+          "lat": "-23.5678",
+          "lng": "67.1234"
+        }
+      },
+      "phone": "408-555-3456",
+      "website": "lunaramirez.io",
+      "company": {
+        "name": "Ramirez Solutions",
+        "catchPhrase": "Streamlined system platforms",
+        "bs": "enable dynamic architectures"
+      }
+    },
+    {
+      "id": 41,
+      "name": "Jasper Ward",
+      "username": "JaspW",
+      "email": "Jasper.Ward@brightspire.com",
+      "address": {
+        "street": "Sagebrush Lane",
+        "suite": "Suite 654",
+        "city": "Hillview",
+        "zipcode": "67890-1234",
+        "geo": {
+          "lat": "56.9012",
+          "lng": "-156.3456"
+        }
+      },
+      "phone": "1-702-678-9012 x456",
+      "website": "jasperward.org",
+      "company": {
+        "name": "Ward Dynamics",
+        "catchPhrase": "Scalable tech frameworks",
+        "bs": "deploy robust solutions"
+      }
+    },
+    {
+      "id": 42,
+      "name": "Piper Morgan",
+      "username": "PipeM",
+      "email": "Piper.Morgan@synergyhub.net",
+      "address": {
+        "street": "Bluebell Road",
+        "suite": "Apt. 987",
+        "city": "Valleyview",
+        "zipcode": "23456-7890",
+        "geo": {
+          "lat": "-34.1234",
+          "lng": "45.7890"
+        }
+      },
+      "phone": "510-555-5678",
+      "website": "pipermorgan.dev",
+      "company": {
+        "name": "Morgan Innovations",
+        "catchPhrase": "Future-ready system integration",
+        "bs": "enhance tech ecosystems"
+      }
+    },
+    {
+      "id": 43,
+      "name": "Finnley Gray",
+      "username": "FinnG",
+      "email": "Finnley.Gray@nextcore.io",
+      "address": {
+        "street": "Marigold Lane",
+        "suite": "Suite 432",
+        "city": "Sunnyhill",
+        "zipcode": "89012-3456",
+        "geo": {
+          "lat": "12.7890",
+          "lng": "-123.5678"
+        }
+      },
+      "phone": "1-213-234-6789 x789",
+      "website": "finnleygray.com",
+      "company": {
+        "name": "Gray Solutions",
+        "catchPhrase": "Optimized tech platforms",
+        "bs": "streamline enterprise workflows"
+      }
+    },
+    {
+      "id": 44,
+      "name": "Sienna Bailey",
+      "username": "SienB",
+      "email": "Sienna.Bailey@cloudwave.org",
+      "address": {
+        "street": "Daffodil Street",
+        "suite": "Apt. 654",
+        "city": "Westwood",
+        "zipcode": "12345-6789",
+        "geo": {
+          "lat": "-45.5678",
+          "lng": "78.9012"
+        }
+      },
+      "phone": "619-555-9012",
+      "website": "siennabailey.net",
+      "company": {
+        "name": "Bailey Tech",
+        "catchPhrase": "Innovative system frameworks",
+        "bs": "drive scalable solutions"
+      }
+    },
+    {
+      "id": 45,
+      "name": "Declan Ortiz",
+      "username": "DecO",
+      "email": "Declan.Ortiz@futurewave.biz",
+      "address": {
+        "street": "Lilac Lane",
+        "suite": "Suite 987",
+        "city": "Eastview",
+        "zipcode": "56789-0123",
+        "geo": {
+          "lat": "23.1234",
+          "lng": "-145.7890"
+        }
+      },
+      "phone": "1-408-678-3456 x123",
+      "website": "declanortiz.io",
+      "company": {
+        "name": "Ortiz Dynamics",
+        "catchPhrase": "Adaptive tech architectures",
+        "bs": "optimize system platforms"
+      }
+    },
+    {
+      "id": 46,
+      "name": "Freya Jensen",
+      "username": "FreyJ",
+      "email": "Freya.Jensen@brightcore.com",
+      "address": {
+        "street": "Orchid Road",
+        "suite": "Apt. 321",
+        "city": "Northvale",
+        "zipcode": "90123-4567",
+        "geo": {
+          "lat": "-67.9012",
+          "lng": "56.3456"
+        }
+      },
+      "phone": "702-555-1234",
+      "website": "freyajensen.org",
+      "company": {
+        "name": "Jensen Innovations",
+        "catchPhrase": "Streamlined tech ecosystems",
+        "bs": "enable dynamic frameworks"
+      }
+    },
+    {
+      "id": 47,
+      "name": "Kieran Hughes",
+      "username": "KierH",
+      "email": "Kieran.Hughes@synergyspire.net",
+      "address": {
+        "street": "Pansy Lane",
+        "suite": "Suite 654",
+        "city": "Southridge",
+        "zipcode": "34567-8901",
+        "geo": {
+          "lat": "34.5678",
+          "lng": "-156.9012"
+        }
+      },
+      "phone": "1-510-234-5678 x456",
+      "website": "kieranhughes.dev",
+      "company": {
+        "name": "Hughes Solutions",
+        "catchPhrase": "Scalable system platforms",
+        "bs": "deploy robust workflows"
+      }
+    },
+    {
+      "id": 48,
+      "name": "Esme Torres",
+      "username": "EsmeT",
+      "email": "Esme.Torres@nextspire.io",
+      "address": {
+        "street": "Violet Street",
+        "suite": "Apt. 987",
+        "city": "Cliffview",
+        "zipcode": "67890-1234",
+        "geo": {
+          "lat": "-12.3456",
+          "lng": "67.7890"
+        }
+      },
+      "phone": "213-555-3456",
+      "website": "esmetorres.com",
+      "company": {
+        "name": "Torres Tech",
+        "catchPhrase": "Future-ready tech solutions",
+        "bs": "enhance enterprise ecosystems"
+      }
+    },
+    {
+      "id": 49,
+      "name": "Theo Sullivan",
+      "username": "TheoS",
+      "email": "Theo.Sullivan@cloudcore.org",
+      "address": {
+        "street": "Daisy Drive",
+        "suite": "Suite 432",
+        "city": "Hillcrest",
+        "zipcode": "23456-7890",
+        "geo": {
+          "lat": "45.9012",
+          "lng": "-123.5678"
+        }
+      },
+      "phone": "1-619-678-9012 x789",
+      "website": "theosullivan.net",
+      "company": {
+        "name": "Sullivan Dynamics",
+        "catchPhrase": "Optimized system frameworks",
+        "bs": "streamline tech architectures"
+      }
+    },
+    {
+      "id": 50,
+      "name": "Clara Fisher",
+      "username": "ClaraF",
+      "email": "Clara.Fisher@futurehub.biz",
+      "address": {
+        "street": "Iris Lane",
+        "suite": "Apt. 654",
+        "city": "Riverwood",
+        "zipcode": "89012-3456",
+        "geo": {
+          "lat": "-23.7890",
+          "lng": "78.1234"
+        }
+      },
+      "phone": "408-555-5678",
+      "website": "clarafisher.io",
+      "company": {
+        "name": "Fisher Innovations",
+        "catchPhrase": "Innovative tech platforms",
+        "bs": "drive scalable solutions"
+      }
+    },
+    {
+      "id": 51,
+      "name": "Ezra Knight",
+      "username": "EzraK",
+      "email": "Ezra.Knight@brightwave.com",
+      "address": {
+        "street": "Fern Street",
+        "suite": "Suite 987",
+        "city": "Sunnyvale",
+        "zipcode": "12345-6789",
+        "geo": {
+          "lat": "56.3456",
+          "lng": "-145.9012"
+        }
+      },
+      "phone": "1-702-234-6789 x123",
+      "website": "ezraknight.org",
+      "company": {
+        "name": "Knight Solutions",
+        "catchPhrase": "Adaptive system ecosystems",
+        "bs": "optimize enterprise workflows"
+      }
+    },
+    {
+      "id": 52,
+      "name": "Nora Elliott",
+      "username": "NoraE",
+      "email": "Nora.Elliott@synergycore.net",
+      "address": {
+        "street": "Peony Lane",
+        "suite": "Apt. 321",
+        "city": "Meadowview",
+        "zipcode": "56789-0123",
+        "geo": {
+          "lat": "-34.9012",
+          "lng": "56.7890"
+        }
+      },
+      "phone": "510-555-9012",
+      "website": "noraelliott.dev",
+      "company": {
+        "name": "Elliott Tech",
+        "catchPhrase": "Streamlined tech frameworks",
+        "bs": "enable dynamic platforms"
+      }
+    },
+    {
+      "id": 53,
+      "name": "Levi Brooks",
+      "username": "LeviB",
+      "email": "Levi.Brooks@nextwave.io",
+      "address": {
+        "street": "Azalea Road",
+        "suite": "Suite 654",
+        "city": "Brookhaven",
+        "zipcode": "90123-4567",
+        "geo": {
+          "lat": "12.5678",
+          "lng": "-167.1234"
+        }
+      },
+      "phone": "1-213-678-3456 x456",
+      "website": "levibrooks.com",
+      "company": {
+        "name": "Brooks Dynamics",
+        "catchPhrase": "Scalable system solutions",
+        "bs": "deploy robust architectures"
+      }
+    },
+    {
+      "id": 54,
+      "name": "Iris Coleman",
+      "username": "IrisC",
+      "email": "Iris.Coleman@cloudspire.org",
+      "address": {
+        "street": "Lavender Lane",
+        "suite": "Apt. 987",
+        "city": "Riverside",
+        "zipcode": "34567-8901",
+        "geo": {
+          "lat": "-45.1234",
+          "lng": "78.5678"
+        }
+      },
+      "phone": "619-555-1234",
+      "website": "iriscoleman.net",
+      "company": {
+        "name": "Coleman Innovations",
+        "catchPhrase": "Future-ready tech platforms",
+        "bs": "enhance system scalability"
+      }
+    },
+    {
+      "id": 55,
+      "name": "Asher Patel",
+      "username": "AshP",
+      "email": "Asher.Patel@futurecore.biz",
+      "address": {
+        "street": "Sunflower Street",
+        "suite": "Suite 432",
+        "city": "Hillview",
+        "zipcode": "67890-1234",
+        "geo": {
+          "lat": "23.9012",
+          "lng": "-145.6789"
+        }
+      },
+      "phone": "1-408-234-5678 x789",
+      "website": "asherpatel.io",
+      "company": {
+        "name": "Patel Solutions",
+        "catchPhrase": "Optimized digital ecosystems",
+        "bs": "streamline enterprise frameworks"
+      }
+    },
+    {
+      "id": 56,
+      "name": "Lydia Hayes",
+      "username": "LydH",
+      "email": "Lydia.Hayes@brightspire.com",
+      "address": {
+        "street": "Camellia Lane",
+        "suite": "Apt. 654",
+        "city": "Valleywood",
+        "zipcode": "23456-7890",
+        "geo": {
+          "lat": "-67.5678",
+          "lng": "56.1234"
+        }
+      },
+      "phone": "702-555-3456",
+      "website": "lydiahayes.org",
+      "company": {
+        "name": "Hayes Tech",
+        "catchPhrase": "Innovative system platforms",
+        "bs": "drive scalable workflows"
+      }
+    },
+    {
+      "id": 57,
+      "name": "Milo Rivera",
+      "username": "MiloR",
+      "email": "Milo.Rivera@synergyhub.net",
+      "address": {
+        "street": "Hyacinth Road",
+        "suite": "Suite 987",
+        "city": "Sunnyridge",
+        "zipcode": "89012-3456",
+        "geo": {
+          "lat": "34.7890",
+          "lng": "-123.9012"
+        }
+      },
+      "phone": "1-510-678-9012 x123",
+      "website": "milorivera.dev",
+      "company": {
+        "name": "Rivera Dynamics",
+        "catchPhrase": "Adaptive tech solutions",
+        "bs": "optimize enterprise ecosystems"
+      }
+    },
+    {
+      "id": 58,
+      "name": "Elena Foster",
+      "username": "ElenF",
+      "email": "Elena.Foster@nextcore.io",
+      "address": {
+        "street": "Jasmine Lane",
+        "suite": "Apt. 321",
+        "city": "Westvale",
+        "zipcode": "12345-6789",
+        "geo": {
+          "lat": "-12.9012",
+          "lng": "67.3456"
+        }
+      },
+      "phone": "213-555-5678",
+      "website": "elenafoster.com",
+      "company": {
+        "name": "Foster Innovations",
+        "catchPhrase": "Streamlined system frameworks",
+        "bs": "enable dynamic platforms"
+      }
+    },
+    {
+      "id": 59,
+      "name": "Caden Ortiz",
+      "username": "CadeO",
+      "email": "Caden.Ortiz@cloudwave.org",
+      "address": {
+        "street": "Rose Lane",
+        "suite": "Suite 654",
+        "city": "Eastwood",
+        "zipcode": "56789-0123",
+        "geo": {
+          "lat": "45.5678",
+          "lng": "-156.7890"
+        }
+      },
+      "phone": "1-619-234-6789 x456",
+      "website": "cadenortiz.net",
+      "company": {
+        "name": "Ortiz Tech",
+        "catchPhrase": "Scalable tech ecosystems",
+        "bs": "deploy robust solutions"
+      }
+    },
+    {
+      "id": 60,
+      "name": "Sofia Bennett",
+      "username": "SofB",
+      "email": "Sofia.Bennett@futurehub.biz",
+      "address": {
+        "street": "Lily Street",
+        "suite": "Apt. 987",
+        "city": "Northwood",
+        "zipcode": "90123-4567",
+        "geo": {
+          "lat": "-23.3456",
+          "lng": "78.9012"
+        }
+      },
+      "phone": "408-555-9012",
+      "website": "sofiabennett.io",
+      "company": {
+        "name": "Bennett Solutions",
+        "catchPhrase": "Future-ready system platforms",
+        "bs": "enhance system scalability"
+      }
+    },
+    {
+      "id": 61,
+      "name": "Jaxon Perry",
+      "username": "JaxP",
+      "email": "Jaxon.Perry@brightcore.com",
+      "address": {
+        "street": "Tulip Road",
+        "suite": "Suite 432",
+        "city": "Southvale",
+        "zipcode": "34567-8901",
+        "geo": {
+          "lat": "56.9012",
+          "lng": "-145.1234"
+        }
+      },
+      "phone": "1-702-678-3456 x789",
+      "website": "jaxonperry.org",
+      "company": {
+        "name": "Perry Dynamics",
+        "catchPhrase": "Optimized tech frameworks",
+        "bs": "streamline enterprise workflows"
+      }
+    },
+    {
+      "id": 62,
+      "name": "Ava Sullivan",
+      "username": "AvaS",
+      "email": "Ava.Sullivan@synergyspire.net",
+      "address": {
+        "street": "Daffodil Lane",
+        "suite": "Apt. 654",
+        "city": "Cliffside",
+        "zipcode": "67890-1234",
+        "geo": {
+          "lat": "-34.5678",
+          "lng": "56.7890"
+        }
+      },
+      "phone": "510-555-1234",
+      "website": "avasullivan.dev",
+      "company": {
+        "name": "Sullivan Innovations",
+        "catchPhrase": "Innovative system solutions",
+        "bs": "drive scalable architectures"
+      }
+    },
+    {
+      "id": 63,
+      "name": "Grayson Torres",
+      "username": "GrayT",
+      "email": "Grayson.Torres@nextwave.io",
+      "address": {
+        "street": "Violet Road",
+        "suite": "Suite 987",
+        "city": "Riverbend",
+        "zipcode": "23456-7890",
+        "geo": {
+          "lat": "12.9012",
+          "lng": "-167.3456"
+        }
+      },
+      "phone": "1-213-234-5678 x123",
+      "website": "graysontorres.com",
+      "company": {
+        "name": "Torres Tech",
+        "catchPhrase": "Adaptive tech platforms",
+        "bs": "optimize enterprise ecosystems"
+      }
+    },
+    {
+      "id": 64,
+      "name": "Harper Fisher",
+      "username": "HarpF",
+      "email": "Harper.Fisher@cloudcore.org",
+      "address": {
+        "street": "Iris Lane",
+        "suite": "Apt. 321",
+        "city": "Sunnyhill",
+        "zipcode": "89012-3456",
+        "geo": {
+          "lat": "-45.7890",
+          "lng": "78.1234"
+        }
+      },
+      "phone": "619-555-3456",
+      "website": "harperfisher.net",
+      "company": {
+        "name": "Fisher Solutions",
+        "catchPhrase": "Streamlined system frameworks",
+        "bs": "enable dynamic workflows"
+      }
+    },
+    {
+      "id": 65,
+      "name": "Eli Knight",
+      "username": "EliK",
+      "email": "Eli.Knight@futurewave.biz",
+      "address": {
+        "street": "Fern Road",
+        "suite": "Suite 654",
+        "city": "Westwood",
+        "zipcode": "12345-6789",
+        "geo": {
+          "lat": "23.5678",
+          "lng": "-145.9012"
+        }
+      },
+      "phone": "1-408-678-9012 x456",
+      "website": "eliknight.io",
+      "company": {
+        "name": "Knight Dynamics",
+        "catchPhrase": "Scalable tech solutions",
+        "bs": "deploy robust platforms"
+      }
+    },
+    {
+      "id": 66,
+      "name": "Mila Elliott",
+      "username": "MilaE",
+      "email": "Mila.Elliott@brightspire.com",
+      "address": {
+        "street": "Peony Street",
+        "suite": "Apt. 987",
+        "city": "Eastview",
+        "zipcode": "56789-0123",
+        "geo": {
+          "lat": "-67.1234",
+          "lng": "56.7890"
+        }
+      },
+      "phone": "702-555-5678",
+      "website": "milaelliott.org",
+      "company": {
+        "name": "Elliott Innovations",
+        "catchPhrase": "Future-ready system ecosystems",
+        "bs": "enhance system scalability"
+      }
+    },
+    {
+      "id": 67,
+      "name": "Ryder Brooks",
+      "username": "RydB",
+      "email": "Ryder.Brooks@synergyhub.net",
+      "address": {
+        "street": "Azalea Lane",
+        "suite": "Suite 432",
+        "city": "Northvale",
+        "zipcode": "90123-4567",
+        "geo": {
+          "lat": "34.9012",
+          "lng": "-123.5678"
+        }
+      },
+      "phone": "1-510-234-6789 x789",
+      "website": "ryderbrooks.dev",
+      "company": {
+        "name": "Brooks Tech",
+        "catchPhrase": "Optimized tech frameworks",
+        "bs": "streamline enterprise solutions"
+      }
+    },
+    {
+      "id": 68,
+      "name": "Zara Coleman",
+      "username": "ZaraC",
+      "email": "Zara.Coleman@nextcore.io",
+      "address": {
+        "street": "Lavender Road",
+        "suite": "Apt. 654",
+        "city": "Southridge",
+        "zipcode": "34567-8901",
+        "geo": {
+          "lat": "-12.5678",
+          "lng": "78.9012"
+        }
+      },
+      "phone": "213-555-9012",
+      "website": "zaracoleman.com",
+      "company": {
+        "name": "Coleman Solutions",
+        "catchPhrase": "Innovative system platforms",
+        "bs": "drive scalable architectures"
+      }
+    },
+    {
+      "id": 69,
+      "name": "Kai Patel",
+      "username": "KaiP",
+      "email": "Kai.Patel@cloudwave.org",
+      "address": {
+        "street": "Sunflower Lane",
+        "suite": "Suite 987",
+        "city": "Cliffview",
+        "zipcode": "67890-1234",
+        "geo": {
+          "lat": "45.1234",
+          "lng": "-156.7890"
+        }
+      },
+      "phone": "1-619-678-3456 x123",
+      "website": "kaipatel.net",
+      "company": {
+        "name": "Patel Dynamics",
+        "catchPhrase": "Adaptive tech ecosystems",
+        "bs": "optimize enterprise workflows"
+      }
+    },
+    {
+      "id": 70,
+      "name": "Lila Hayes",
+      "username": "LilaH",
+      "email": "Lila.Hayes@futurehub.biz",
+      "address": {
+        "street": "Camellia Road",
+        "suite": "Apt. 321",
+        "city": "Riverwood",
+        "zipcode": "23456-7890",
+        "geo": {
+          "lat": "-23.9012",
+          "lng": "67.3456"
+        }
+      },
+      "phone": "408-555-1234",
+      "website": "lilahayes.io",
+      "company": {
+        "name": "Hayes Solutions",
+        "catchPhrase": "Streamlined system solutions",
+        "bs": "enable dynamic platforms"
+      }
+    },
+    {
+      "id": 71,
+      "name": "Nico Rivera",
+      "username": "NicoR",
+      "email": "Nico.Rivera@brightcore.com",
+      "address": {
+        "street": "Hyacinth Lane",
+        "suite": "Suite 654",
+        "city": "Sunnyvale",
+        "zipcode": "89012-3456",
+        "geo": {
+          "lat": "56.7890",
+          "lng": "-145.1234"
+        }
+      },
+      "phone": "1-702-234-5678 x456",
+      "website": "nicorivera.org",
+      "company": {
+        "name": "Rivera Tech",
+        "catchPhrase": "Scalable tech frameworks",
+        "bs": "deploy robust ecosystems"
+      }
+    },
+    {
+      "id": 72,
+      "name": "Selena Foster",
+      "username": "SeleF",
+      "email": "Selena.Foster@synergyspire.net",
+      "address": {
+        "street": "Jasmine Road",
+        "suite": "Apt. 987",
+        "city": "Meadowview",
+        "zipcode": "12345-6789",
+        "geo": {
+          "lat": "-34.1234",
+          "lng": "78.5678"
+        }
+      },
+      "phone": "510-555-3456",
+      "website": "selenafoster.dev",
+      "company": {
+        "name": "Foster Innovations",
+        "catchPhrase": "Future-ready system platforms",
+        "bs": "enhance system scalability"
+      }
+    },
+    {
+      "id": 73,
+      "name": "Ezra Ortiz",
+      "username": "EzraO",
+      "email": "Ezra.Ortiz@nextwave.io",
+      "address": {
+        "street": "Rose Street",
+        "suite": "Suite 432",
+        "city": "Brookhaven",
+        "zipcode": "56789-0123",
+        "geo": {
+          "lat": "12.3456",
+          "lng": "-123.9012"
+        }
+      },
+      "phone": "1-213-678-9012 x789",
+      "website": "ezraortiz.com",
+      "company": {
+        "name": "Ortiz Solutions",
+        "catchPhrase": "Optimized tech ecosystems",
+        "bs": "streamline enterprise frameworks"
+      }
+    },
+    {
+      "id": 74,
+      "name": "Aria Bennett",
+      "username": "AriaB",
+      "email": "Aria.Bennett@cloudcore.org",
+      "address": {
+        "street": "Lily Lane",
+        "suite": "Apt. 654",
+        "city": "Riverside",
+        "zipcode": "90123-4567",
+        "geo": {
+          "lat": "-45.5678",
+          "lng": "56.7890"
+        }
+      },
+      "phone": "619-555-5678",
+      "website": "ariabennett.net",
+      "company": {
+        "name": "Bennett Tech",
+        "catchPhrase": "Innovative system solutions",
+        "bs": "drive scalable workflows"
+      }
+    },
+    {
+      "id": 75,
+      "name": "Jasper Perry",
+      "username": "JaspP",
+      "email": "Jasper.Perry@futurewave.biz",
+      "address": {
+        "street": "Tulip Lane",
+        "suite": "Suite 987",
+        "city": "Hillcrest",
+        "zipcode": "34567-8901",
+        "geo": {
+          "lat": "23.9012",
+          "lng": "-167.1234"
+        }
+      },
+      "phone": "1-408-234-6789 x123",
+      "website": "jasperperry.io",
+      "company": {
+        "name": "Perry Dynamics",
+        "catchPhrase": "Adaptive tech platforms",
+        "bs": "optimize enterprise ecosystems"
+      }
+    },
+    {
+      "id": 76,
+      "name": "Luna Sullivan",
+      "username": "LunaS",
+      "email": "Luna.Sullivan@brightspire.com",
+      "address": {
+        "street": "Daffodil Road",
+        "suite": "Apt. 321",
+        "city": "Sunnyhill",
+        "zipcode": "67890-1234",
+        "geo": {
+          "lat": "-67.3456",
+          "lng": "78.9012"
+        }
+      },
+      "phone": "702-555-9012",
+      "website": "lunasullivan.org",
+      "company": {
+        "name": "Sullivan Solutions",
+        "catchPhrase": "Streamlined system frameworks",
+        "bs": "enable dynamic architectures"
+      }
+    },
+    {
+      "id": 77,
+      "name": "Finn Torres",
+      "username": "FinnT",
+      "email": "Finn.Torres@synergyhub.net",
+      "address": {
+        "street": "Violet Lane",
+        "suite": "Suite 654",
+        "city": "Westwood",
+        "zipcode": "23456-7890",
+        "geo": {
+          "lat": "34.7890",
+          "lng": "-145.5678"
+        }
+      },
+      "phone": "1-510-678-3456 x456",
+      "website": "finntorres.dev",
+      "company": {
+        "name": "Torres Innovations",
+        "catchPhrase": "Scalable tech solutions",
+        "bs": "deploy robust platforms"
+      }
+    },
+    {
+      "id": 78,
+      "name": "Zoe Fisher",
+      "username": "ZoeF",
+      "email": "Zoe.Fisher@nextcore.io",
+      "address": {
+        "street": "Iris Road",
+        "suite": "Apt. 987",
+        "city": "Eastview",
+        "zipcode": "89012-3456",
+        "geo": {
+          "lat": "-12.9012",
+          "lng": "56.1234"
+        }
+      },
+      "phone": "213-555-1234",
+      "website": "zoefisher.com",
+      "company": {
+        "name": "Fisher Tech",
+        "catchPhrase": "Future-ready system ecosystems",
+        "bs": "enhance system scalability"
+      }
+    },
+    {
+      "id": 79,
+      "name": "Levi Knight",
+      "username": "LeviK",
+      "email": "Levi.Knight@cloudwave.org",
+      "address": {
+        "street": "Fern Lane",
+        "suite": "Suite 432",
+        "city": "Northvale",
+        "zipcode": "12345-6789",
+        "geo": {
+          "lat": "45.5678",
+          "lng": "-123.9012"
+        }
+      },
+      "phone": "1-619-234-5678 x789",
+      "website": "leviknight.net",
+      "company": {
+        "name": "Knight Solutions",
+        "catchPhrase": "Optimized tech frameworks",
+        "bs": "streamline enterprise workflows"
+      }
+    },
+    {
+      "id": 80,
+      "name": "Mila Elliott",
+      "username": "MilaE",
+      "email": "Mila.Elliott@futurehub.biz",
+      "address": {
+        "street": "Peony Road",
+        "suite": "Apt. 654",
+        "city": "Southridge",
+        "zipcode": "56789-0123",
+        "geo": {
+          "lat": "-23.1234",
+          "lng": "78.5678"
+        }
+      },
+      "phone": "408-555-3456",
+      "website": "milaelliott.io",
+      "company": {
+        "name": "Elliott Dynamics",
+        "catchPhrase": "Innovative system solutions",
+        "bs": "drive scalable architectures"
+      }
+    },
+    {
+      "id": 81,
+      "name": "Ryder Brooks",
+      "username": "RydB",
+      "email": "Ryder.Brooks@brightcore.com",
+      "address": {
+        "street": "Azalea Street",
+        "suite": "Suite 987",
+        "city": "Cliffview",
+        "zipcode": "90123-4567",
+        "geo": {
+          "lat": "56.9012",
+          "lng": "-156.7890"
+        }
+      },
+      "phone": "1-702-678-9012 x123",
+      "website": "ryderbrooks.org",
+      "company": {
+        "name": "Brooks Innovations",
+        "catchPhrase": "Adaptive tech platforms",
+        "bs": "optimize enterprise ecosystems"
+      }
+    },
+    {
+      "id": 82,
+      "name": "Zara Coleman",
+      "username": "ZaraC",
+      "email": "Zara.Coleman@synergyspire.net",
+      "address": {
+        "street": "Lavender Lane",
+        "suite": "Apt. 321",
+        "city": "Riverwood",
+        "zipcode": "34567-8901",
+        "geo": {
+          "lat": "-34.5678",
+          "lng": "56.9012"
+        }
+      },
+      "phone": "510-555-5678",
+      "website": "zaracoleman.dev",
+      "company": {
+        "name": "Coleman Tech",
+        "catchPhrase": "Streamlined system frameworks",
+        "bs": "enable dynamic workflows"
+      }
+    },
+    {
+      "id": 83,
+      "name": "Kai Patel",
+      "username": "KaiP",
+      "email": "Kai.Patel@nextwave.io",
+      "address": {
+        "street": "Sunflower Road",
+        "suite": "Suite 654",
+        "city": "Sunnyvale",
+        "zipcode": "67890-1234",
+        "geo": {
+          "lat": "12.7890",
+          "lng": "-145.1234"
+        }
+      },
+      "phone": "1-213-234-6789 x456",
+      "website": "kaipatel.com",
+      "company": {
+        "name": "Patel Solutions",
+        "catchPhrase": "Scalable tech solutions",
+        "bs": "deploy robust platforms"
+      }
+    },
+    {
+      "id": 84,
+      "name": "Lila Hayes",
+      "username": "LilaH",
+      "email": "Lila.Hayes@cloudcore.org",
+      "address": {
+        "street": "Camellia Lane",
+        "suite": "Apt. 987",
+        "city": "Meadowview",
+        "zipcode": "23456-7890",
+        "geo": {
+          "lat": "-45.9012",
+          "lng": "78.5678"
+        }
+      },
+      "phone": "619-555-9012",
+      "website": "lilahayes.net",
+      "company": {
+        "name": "Hayes Dynamics",
+        "catchPhrase": "Future-ready system ecosystems",
+        "bs": "enhance system scalability"
+      }
+    },
+    {
+      "id": 85,
+      "name": "Nico Rivera",
+      "username": "NicoR",
+      "email": "Nico.Rivera@futurehub.biz",
+      "address": {
+        "street": "Hyacinth Road",
+        "suite": "Suite 432",
+        "city": "Brookhaven",
+        "zipcode": "89012-3456",
+        "geo": {
+          "lat": "23.5678",
+          "lng": "-123.9012"
+        }
+      },
+      "phone": "1-408-678-3456 x789",
+      "website": "nicorivera.io",
+      "company": {
+        "name": "Rivera Innovations",
+        "catchPhrase": "Optimized tech frameworks",
+        "bs": "streamline enterprise solutions"
+      }
+    },
+    {
+      "id": 86,
+      "name": "Selena Foster",
+      "username": "SeleF",
+      "email": "Selena.Foster@brightspire.com",
+      "address": {
+        "street": "Jasmine Lane",
+        "suite": "Apt. 654",
+        "city": "Riverside",
+        "zipcode": "12345-6789",
+        "geo": {
+          "lat": "-67.1234",
+          "lng": "56.7890"
+        }
+      },
+      "phone": "702-555-1234",
+      "website": "selenafoster.org",
+      "company": {
+        "name": "Foster Tech",
+        "catchPhrase": "Innovative system platforms",
+        "bs": "drive scalable architectures"
+      }
+    },
+    {
+      "id": 87,
+      "name": "Ezra Ortiz",
+      "username": "EzraO",
+      "email": "Ezra.Ortiz@synergyhub.net",
+      "address": {
+        "street": "Rose Road",
+        "suite": "Suite 987",
+        "city": "Hillcrest",
+        "zipcode": "56789-0123",
+        "geo": {
+          "lat": "34.9012",
+          "lng": "-156.5678"
+        }
+      },
+      "phone": "1-510-234-5678 x123",
+      "website": "ezraortiz.dev",
+      "company": {
+        "name": "Ortiz Dynamics",
+        "catchPhrase": "Adaptive tech solutions",
+        "bs": "optimize enterprise ecosystems"
+      }
+    },
+    {
+      "id": 88,
+      "name": "Aria Bennett",
+      "username": "AriaB",
+      "email": "Aria.Bennett@nextcore.io",
+      "address": {
+        "street": "Lily Lane",
+        "suite": "Apt. 321",
+        "city": "Sunnyhill",
+        "zipcode": "90123-4567",
+        "geo": {
+          "lat": "-12.5678",
+          "lng": "78.9012"
+        }
+      },
+      "phone": "213-555-3456",
+      "website": "ariabennett.com",
+      "company": {
+        "name": "Bennett Solutions",
+        "catchPhrase": "Streamlined system frameworks",
+        "bs": "enable dynamic workflows"
+      }
+    },
+    {
+      "id": 89,
+      "name": "Jasper Perry",
+      "username": "JaspP",
+      "email": "Jasper.Perry@cloudwave.org",
+      "address": {
+        "street": "Tulip Road",
+        "suite": "Suite 654",
+        "city": "Westwood",
+        "zipcode": "34567-8901",
+        "geo": {
+          "lat": "45.1234",
+          "lng": "-145.7890"
+        }
+      },
+      "phone": "1-619-678-9012 x456",
+      "website": "jasperperry.net",
+      "company": {
+        "name": "Perry Tech",
+        "catchPhrase": "Scalable tech platforms",
+        "bs": "deploy robust solutions"
+      }
+    },
+    {
+      "id": 90,
+      "name": "Luna Sullivan",
+      "username": "LunaS",
+      "email": "Luna.Sullivan@futurehub.biz",
+      "address": {
+        "street": "Daffodil Lane",
+        "suite": "Apt. 987",
+        "city": "Eastview",
+        "zipcode": "67890-1234",
+        "geo": {
+          "lat": "-23.9012",
+          "lng": "56.3456"
+        }
+      },
+      "phone": "408-555-1234",
+      "website": "lunasullivan.io",
+      "company": {
+        "name": "Sullivan Innovations",
+        "catchPhrase": "Future-ready system ecosystems",
+        "bs": "enhance system scalability"
+      }
+    },
+    {
+      "id": 91,
+      "name": "Finn Torres",
+      "username": "FinnT",
+      "email": "Finn.Torres@brightcore.com",
+      "address": {
+        "street": "Violet Road",
+        "suite": "Suite 432",
+        "city": "Northvale",
+      "zipcode": "23456-7890",
+        "geo": {
+          "lat": "56.7890",
+          "lng": "-123.5678"
+        }
+      },
+      "phone": "1-702-234-5678 x789",
+      "website": "finntorres.org",
+      "company": {
+        "name": "Torres Solutions",
+        "catchPhrase": "Optimized tech frameworks",
+        "bs": "streamline enterprise architectures"
+      }
+    },
+    {
+      "id": 92,
+      "name": "Zoe Fisher",
+      "username": "ZoeF",
+      "email": "Zoe.Fisher@synergyspire.net",
+      "address": {
+        "street": "Iris Lane",
+        "suite": "Apt. 654",
+        "city": "Southridge",
+        "zipcode": "89012-3456",
+        "geo": {
+          "lat": "-34.1234",
+          "lng": "78.9012"
+        }
+      },
+      "phone": "510-555-3456",
+      "website": "zoefisher.dev",
+      "company": {
+        "name": "Fisher Dynamics",
+        "catchPhrase": "Innovative system solutions",
+        "bs": "drive scalable platforms"
+      }
+    },
+    {
+      "id": 93,
+      "name": "Levi Knight",
+      "username": "LeviK",
+      "email": "Levi.Knight@nextwave.io",
+      "address": {
+        "street": "Fern Road",
+        "suite": "Suite 987",
+        "city": "Cliffview",
+        "zipcode": "12345-6789",
+        "geo": {
+          "lat": "12.5678",
+          "lng": "-156.7890"
+        }
+      },
+      "phone": "1-213-678-9012 x123",
+      "website": "leviknight.com",
+      "company": {
+        "name": "Knight Tech",
+        "catchPhrase": "Adaptive tech ecosystems",
+        "bs": "optimize enterprise solutions"
+      }
+    },
+    {
+      "id": 94,
+      "name": "Mila Elliott",
+      "username": "MilaE",
+      "email": "Mila.Elliott@cloudcore.org",
+      "address": {
+        "street": "Peony Lane",
+        "suite": "Apt. 321",
+        "city": "Riverwood",
+        "zipcode": "56789-0123",
+        "geo": {
+          "lat": "-45.9012",
+          "lng": "56.1234"
+        }
+      },
+      "phone": "619-555-5678",
+      "website": "milaelliott.net",
+      "company": {
+        "name": "Elliott Solutions",
+        "catchPhrase": "Streamlined system frameworks",
+        "bs": "enable dynamic workflows"
+      }
+    },
+    {
+      "id": 95,
+      "name": "Ryder Brooks",
+      "username": "RydB",
+      "email": "Ryder.Brooks@futurehub.biz",
+      "address": {
+        "street": "Azalea Road",
+        "suite": "Suite 654",
+        "city": "Sunnyvale",
+        "zipcode": "90123-4567",
+        "geo": {
+          "lat": "23.7890",
+          "lng": "-145.5678"
+        }
+      },
+      "phone": "1-408-234-6789 x456",
+      "website": "ryderbrooks.io",
+      "company": {
+        "name": "Brooks Dynamics",
+        "catchPhrase": "Scalable tech solutions",
+        "bs": "deploy robust architectures"
+      }
+    },
+    {
+      "id": 96,
+      "name": "Zara Coleman",
+      "username": "ZaraC",
+      "email": "Zara.Coleman@brightspire.com",
+      "address": {
+        "street": "Lavender Street",
+        "suite": "Apt. 987",
+        "city": "Meadowview",
+        "zipcode": "34567-8901",
+        "geo": {
+          "lat": "-67.3456",
+          "lng": "78.9012"
+        }
+      },
+      "phone": "702-555-9012",
+      "website": "zaracoleman.org",
+      "company": {
+        "name": "Coleman Innovations",
+        "catchPhrase": "Future-ready system platforms",
+        "bs": "enhance system scalability"
+      }
+    },
+    {
+      "id": 97,
+      "name": "Kai Patel",
+      "username": "KaiP",
+      "email": "Kai.Patel@synergyhub.net",
+      "address": {
+        "street": "Sunflower Lane",
+        "suite": "Suite 432",
+        "city": "Brookhaven",
+        "zipcode": "67890-1234",
+        "geo": {
+          "lat": "34.9012",
+          "lng": "-123.5678"
+        }
+      },
+      "phone": "1-510-678-3456 x789",
+      "website": "kaipatel.dev",
+      "company": {
+        "name": "Patel Tech",
+        "catchPhrase": "Optimized tech frameworks",
+        "bs": "streamline enterprise ecosystems"
+      }
+    },
+    {
+      "id": 98,
+      "name": "Lila Hayes",
+      "username": "LilaH",
+      "email": "Lila.Hayes@nextcore.io",
+      "address": {
+        "street": "Camellia Road",
+        "suite": "Apt. 654",
+        "city": "Riverside",
+        "zipcode": "23456-7890",
+        "geo": {
+          "lat": "-12.5678",
+          "lng": "56.7890"
+        }
+      },
+      "phone": "213-555-1234",
+      "website": "lilahayes.com",
+      "company": {
+        "name": "Hayes Solutions",
+        "catchPhrase": "Innovative system solutions",
+        "bs": "drive scalable workflows"
+      }
+    },
+    {
+      "id": 99,
+      "name": "Nico Rivera",
+      "username": "NicoR",
+      "email": "Nico.Rivera@cloudwave.org",
+      "address": {
+        "street": "Hyacinth Lane",
+        "suite": "Suite 987",
+        "city": "Hillcrest",
+        "zipcode": "89012-3456",
+        "geo": {
+          "lat": "45.1234",
+          "lng": "-156.9012"
+        }
+      },
+      "phone": "1-619-234-5678 x123",
+      "website": "nicorivera.net",
+      "company": {
+        "name": "Rivera Dynamics",
+        "catchPhrase": "Adaptive tech platforms",
+        "bs": "optimize enterprise architectures"
+      }
+    },
+    {
+      "id": 100,
+      "name": "Selena Foster",
+      "username": "SeleF",
+      "email": "Selena.Foster@futurehub.biz",
+      "address": {
+        "street": "Jasmine Road",
+        "suite": "Apt. 321",
+        "city": "Sunnyhill",
+        "zipcode": "12345-6789",
+        "geo": {
+          "lat": "-23.9012",
+          "lng": "78.5678"
+        }
+      },
+      "phone": "408-555-3456",
+      "website": "selenafoster.io",
+      "company": {
+        "name": "Foster Innovations",
+        "catchPhrase": "Streamlined system ecosystems",
+        "bs": "enable dynamic solutions"
+      }
+    }
+  ]
+}

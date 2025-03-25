@@ -1,0 +1,29 @@
+@import 'tailwindcss';
+
+.clear-button {
+  @apply p-2 hover:bg-red-600 bg-red-500 text-white rounded;
+}
+
+.search-input {
+  @apply p-2 border rounded;
+}
+
+.search-bar {
+  @apply flex gap-2 mb-4;
+}
+
+.user-card {
+  @apply p-4 border rounded-sm;
+}
+
+.main {
+  @apply p-6 max-w-4xl mx-auto;
+}
+
+.heading {
+  @apply text-4xl font-bold mb-4;
+}
+
+.error-message {
+  @apply text-red-500;
+}
